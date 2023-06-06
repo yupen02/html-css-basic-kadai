@@ -1,0 +1,28 @@
+html{
+  font-size: 20px;
+}
+body{
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 4rem;
+  text-shadow: 2px 2px yellow ;
+  border-bottom: solid 3px rgb(115,115,114)
+  
+}
+
+.class1{
+  color: skyblue;
+}
+
+.class2{
+  color: rgb(255,192,203)
+}
+
+#basic > div{
+ font-weight: bold;
+}
